@@ -102,7 +102,7 @@
 }
 
 .tournamentlogo{
-    width: 150px;
+    width: 200px;
     height: 75px;
     margin-left: 65px ;
     margin-top: 20px;
@@ -137,7 +137,8 @@
 .vslogo{
     width: 83.33333333333333px;
     height: 80px;
-
+    justify-content: center;
+    margin-left: 85px;
     overflow: hidden;
 }
 
